@@ -20,6 +20,6 @@ The Payment Screen
 
 The Screen to Create a New Staff Member Who Can Then Use the App
 
-```md
+
 ![create employee screen](images/createemployee.PNG)
-```
+
