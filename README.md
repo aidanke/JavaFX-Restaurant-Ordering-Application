@@ -8,18 +8,15 @@ An JavaFX application where the user can take a customer's order from a menu and
 
 The Menu Screen
 
-```md
 ![menu screen](images/menu.PNG)
-```
+
 
 The Payment Screen
 
-```md
 ![payment screen](images/payment.PNG)
-```
+
 
 The Screen to Create a New Staff Member Who Can Then Use the App
-
 
 ![create employee screen](images/createemployee.PNG)
 
